@@ -1,0 +1,33 @@
+body{
+    background-image: url(/anime-girl-sunflower-flower-field-4k-wallpaper-uhdpaper.com-250@3@a.jpg);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    background-position: center;
+    background-attachment: fixed;
+    color: red;
+}
+
+.card{
+    
+background: rgba(255, 255, 255, 0.11);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(3.7px);
+-webkit-backdrop-filter: blur(3.7px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.contenedor{
+    background: rgba(255, 255, 255, 0.11);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(3.7px);
+-webkit-backdrop-filter: blur(3.7px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+width: 80%; /* Ancho del contenedor */
+margin: 20px auto; /* Centrar el contenedor horizontalmente */
+padding: 20px;
+}
+.botones {
+    margin-top: 10px;
+}
